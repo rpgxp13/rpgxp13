@@ -1,5 +1,5 @@
-### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KimHyeonWoo&fontSize=70)
+<!-- ### Hi there 👋 -->
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KimHyeonWoo&fontSize=70) -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
