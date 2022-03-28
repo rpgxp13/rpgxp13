@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 <br/>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rpgxp13&show_icons=true&theme=dracula)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rpgxp13&show_icons=true&theme=dracula) -->
 </p>
 
 
