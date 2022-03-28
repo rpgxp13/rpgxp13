@@ -1,7 +1,6 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KimHyeonWoo&fontSize=70)
 
-<h3 align="center">☘️ Tech Stack ☘️</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -16,9 +15,11 @@
 <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=Qt&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+<br/>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rpgxp13&show_icons=true&theme=dracula)
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rpgxp13&show_icons=true&theme=dracula)
 
 <!--
 **rpgxp13/rpgxp13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
