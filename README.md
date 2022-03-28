@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&test=Rpgxp13&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Rpgxp13&fontSize=70)
 <!--
 **rpgxp13/rpgxp13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
